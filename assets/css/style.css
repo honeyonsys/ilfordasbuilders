@@ -2510,6 +2510,7 @@ figure {
 .blog-post .icons-hover-black a {
 	opacity: 0;
 	transition: all 0.25s ease 0s;
+	margin-left:10px;
 }
 .blog-post .post-more-link:hover .icons-hover-black a {
 	opacity: 1;
